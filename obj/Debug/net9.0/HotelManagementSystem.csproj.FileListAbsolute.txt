@@ -1,0 +1,14 @@
+C:\Users\kiran\Programming\C#\HotelManagementSystem\bin\Debug\net9.0\HotelManagementSystem.exe
+C:\Users\kiran\Programming\C#\HotelManagementSystem\bin\Debug\net9.0\HotelManagementSystem.deps.json
+C:\Users\kiran\Programming\C#\HotelManagementSystem\bin\Debug\net9.0\HotelManagementSystem.runtimeconfig.json
+C:\Users\kiran\Programming\C#\HotelManagementSystem\bin\Debug\net9.0\HotelManagementSystem.dll
+C:\Users\kiran\Programming\C#\HotelManagementSystem\bin\Debug\net9.0\HotelManagementSystem.pdb
+C:\Users\kiran\Programming\C#\HotelManagementSystem\obj\Debug\net9.0\HotelManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiran\Programming\C#\HotelManagementSystem\obj\Debug\net9.0\HotelManagementSystem.AssemblyInfoInputs.cache
+C:\Users\kiran\Programming\C#\HotelManagementSystem\obj\Debug\net9.0\HotelManagementSystem.AssemblyInfo.cs
+C:\Users\kiran\Programming\C#\HotelManagementSystem\obj\Debug\net9.0\HotelManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\kiran\Programming\C#\HotelManagementSystem\obj\Debug\net9.0\HotelManagementSystem.dll
+C:\Users\kiran\Programming\C#\HotelManagementSystem\obj\Debug\net9.0\refint\HotelManagementSystem.dll
+C:\Users\kiran\Programming\C#\HotelManagementSystem\obj\Debug\net9.0\HotelManagementSystem.pdb
+C:\Users\kiran\Programming\C#\HotelManagementSystem\obj\Debug\net9.0\HotelManagementSystem.genruntimeconfig.cache
+C:\Users\kiran\Programming\C#\HotelManagementSystem\obj\Debug\net9.0\ref\HotelManagementSystem.dll
